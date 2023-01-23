@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UsoFragmentNocheDia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ModoNoche">Modo noche</string>
+    <string name="ModoDia">Modo dia</string>
+    <string name="modo">Cambiar Modo</string>
+</resources>
