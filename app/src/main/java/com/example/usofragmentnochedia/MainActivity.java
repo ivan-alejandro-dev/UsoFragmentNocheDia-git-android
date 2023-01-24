@@ -37,6 +37,9 @@ public class MainActivity extends AppCompatActivity {
         }
         modoDia = !modoDia;
 
+
+        //prueba commit
+
         getSupportFragmentManager()
                 .beginTransaction()
                 .replace(R.id.contenedor, f)
